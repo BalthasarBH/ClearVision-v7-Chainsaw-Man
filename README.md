@@ -11,7 +11,6 @@
 This project is a **modified version** of the original **Clearvision 7** repository. All credits for the base project go to the original creators. My **modifications** include changes to the **background**, **home icon**, and various **color schemes**. I am **not affiliated** with the original Clearvision 7 project, and these modifications are **purely my own**.
 
 
-</div>
 
 
 ## Installing
@@ -24,3 +23,4 @@ Download the theme file from [releases](https://github.com/BalthasarBH/ClearVisi
 
 - Vencord: `%appdata%\vencord\themes`
 
+</div>
