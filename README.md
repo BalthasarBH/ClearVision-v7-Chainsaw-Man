@@ -1,14 +1,15 @@
 [original_src]: https://github.com/ClearVision/ClearVision-v7
-
+[creators]: https://github.com/ClearVision
+[example-screenshot]: https://raw.githubusercontent.com/BalthasarBH/ClearVision-v7-Chainsaw-Man/refs/heads/master/pictures/example-screenshot.png
 
 <div align="center">
 	
+#### DISCLAIMER!
+This project is a **modified version** of the original **[Clearvision 7](https://github.com/ClearVision/ClearVision-v7)** repository. All **credits** for the base project go to the **[original creators][creators]**. My **modifications** include changes to the **background**, **home icon**, and various **color schemes**. I am **not affiliated** with the original Clearvision 7 project, and these **modifications** are **purely my own**.
+	
 # ClearVision v7
 
-
-
-#### DISCLAIMER!
-This project is a **modified version** of the original **Clearvision 7** repository. All credits for the base project go to the original creators. My **modifications** include changes to the **background**, **home icon**, and various **color schemes**. I am **not affiliated** with the original Clearvision 7 project, and these modifications are **purely my own**.
+![example-screenshot][example-screenshot]
 
 </div>
 
@@ -23,4 +24,8 @@ Download the theme file from [releases](https://github.com/BalthasarBH/ClearVisi
 
 - Vencord: `%appdata%\vencord\themes`
 
-  
+### Some links:
+
+- [Original Repository][original_src]
+- [Original Backround Image](https://www.uhdpaper.com/2022/08/chainsaw-man-denji-and-pochita-4k-181j.html?m=0)
+- [Potchita Icon](https://gamerant.com/chainsaw-man-why-pochita-is-such-a-great-mascot/)
