@@ -28,4 +28,4 @@ Download the theme file from [releases](https://github.com/BalthasarBH/ClearVisi
 
 - [Original Repository][original_src]
 - [Original Backround Image](https://www.uhdpaper.com/2022/08/chainsaw-man-denji-and-pochita-4k-181j.html?m=0)
-- [Potchita Icon](https://gamerant.com/chainsaw-man-why-pochita-is-such-a-great-mascot/)
+- [Pochita Icon](https://gamerant.com/chainsaw-man-why-pochita-is-such-a-great-mascot/)
